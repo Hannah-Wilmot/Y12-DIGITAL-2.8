@@ -1,0 +1,14 @@
+/* Define the custom font using @font-face */
+@font-face {
+  font-family: 'MyCustomFont'; /* Choose a name for your font */
+  src: url('fonts/MyCustomFont.woff2') format('woff2'), /* Path to your font file */
+       url('fonts/MyCustomFont.woff') format('woff'); /* Fallback for older browsers */
+  font-weight: normal; /* Specify font weight if needed */
+  font-style: normal; /* Specify font style if needed */
+}
+
+/* Apply the custom font to an element */
+body {
+  font-family: 'MyCustomFont', sans-serif; /* Use the defined font family name */
+}
+
