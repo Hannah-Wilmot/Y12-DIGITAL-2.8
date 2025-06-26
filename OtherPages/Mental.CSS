@@ -25,7 +25,7 @@
 }
 
 .Addinfo1{
-    max-width: 250px;
+    width: 250px;
     height: 250px;
     background-color: grey;
     float: left;
@@ -34,7 +34,7 @@
 }
 
 .Addinfo2{
-   max-width: 250px;
+   width: 250px;
    height: 250px;
    background-color: grey;
    float: right;
