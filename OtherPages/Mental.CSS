@@ -1,31 +1,31 @@
 .Heroimage {
-    max-width: auto;
+    max-width: 1440px;
     max-height: 900px ;
     margin: -8px;
 }
 
 .WelcomeMessage{
-    width: auto;
+    max-width: 1440px;
     height: 350px;
     background-color: lightgray;
     margin: -8px;
 }
 
 .decorationimage1{
-   max-width: auto;
+   max-width: 1440px;
     height: 100px;
     margin: -8px;
     
 }
 
 .Informationsection{
-    width: auto;
+    max-width: 1440px;
     height: 1500px;
     margin: -8px;
 }
 
 .Addinfo1{
-    width: 250px;
+    max-width: 250px;
     height: 250px;
     background-color: grey;
     float: left;
@@ -34,7 +34,7 @@
 }
 
 .Addinfo2{
-   width: 250px;
+   max-width: 250px;
    height: 250px;
    background-color: grey;
    float: right;
@@ -43,27 +43,27 @@
 }
 
 .Keytakeaways{
-    width: auto;
+    max-width: 1300px;
     height: 600px;
     margin: 100px;
     background-color: lightgray;
 }
 
 .decorationimage2{
-    max-width: auto;
+    max-width: 1440px;
     max-height: 200px;
     margin: -8px;
     
 }
 
 .References{
-    width: auto;
+    max-width: 1440px;
     height: 750px;
     margin: -8px;
 }
 
 .Footer{
-    width: auto;
+    max-width: 1440px;
     height: 500px;
     background-color: lightgray;
     margin: -8px;
