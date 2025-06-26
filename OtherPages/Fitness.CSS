@@ -1,0 +1,65 @@
+.Heroimage {
+    max-width: auto;
+    max-height: 900px ;
+    margin: -8px;
+}
+
+.WelcomeMessage{
+    width: auto;
+    height: 350px;
+    background-color: lightgray;
+    margin: -8px;
+}
+
+.decorationimage1{
+    width: auto;
+    height: 100px;
+    margin: -8px;
+    
+}
+
+.Informationsection{
+    width: auto;
+    height: 1500px;
+    margin: -8px;
+}
+
+.Addinfo1{
+    width:100px;
+    height: 200px;
+    align-items: left;
+    background-color: grey;
+
+}
+
+.Addinfo2{
+    width: ;
+    height: ;
+}
+
+.Keytakeaways{
+    width: auto;
+    height: 600px;
+    margin: 100px;
+    background-color: lightgray;
+}
+
+.decorationimage2{
+    width: auto;
+    height: 200px;
+    margin: -8px;
+    
+}
+
+.References{
+    width: auto;
+    height: 600px;
+    margin: -8px;
+}
+
+.Footer{
+    width: auto;
+    height: 500px;
+    background-color: lightgray;
+    margin: -8px;
+}

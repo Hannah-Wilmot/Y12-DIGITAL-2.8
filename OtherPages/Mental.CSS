@@ -1,0 +1,25 @@
+.Heroimage {
+    max-width: auto;
+    max-height: 900px ;
+    margin: -8px;
+}
+
+.WelcomeMessage{
+    width: auto;
+    height: 350px;
+    background-color: lightgray;
+    margin: -8px;
+}
+
+.{
+    width: auto;
+    height: 1000px;
+    margin: -8px;
+}
+
+.Footer{
+    width: auto;
+    height: 500px;
+    background-color: lightgray;
+    margin: -8px;
+}
