@@ -12,7 +12,7 @@
 }
 
 .decorationimage1{
-    width: auto;
+   max-width: auto;
     height: 100px;
     margin: -8px;
     
@@ -25,16 +25,21 @@
 }
 
 .Addinfo1{
-    width:100px;
-    height: 200px;
-    align-items: left;
+    width: 250px;
+    height: 250px;
     background-color: grey;
+    float: left;
+    margin: 40px;
 
 }
 
 .Addinfo2{
-    width: ;
-    height: ;
+   width: 250px;
+   height: 250px;
+   background-color: grey;
+   float: right;
+   margin: 40px;
+
 }
 
 .Keytakeaways{
@@ -45,15 +50,15 @@
 }
 
 .decorationimage2{
-    width: auto;
-    height: 200px;
+    max-width: auto;
+    max-height: 200px;
     margin: -8px;
     
 }
 
 .References{
     width: auto;
-    height: 600px;
+    height: 750px;
     margin: -8px;
 }
 
