@@ -1,24 +1,24 @@
 .Heroimage {
-    max-width: auto;
+    max-width: 1440px;
     max-height: 900px ;
     margin: -8px;
 }
 
 .WelcomeMessage{
-    width: auto;
+    max-width: 1440px;
     height: 350px;
     background-color: lightgray;
     margin: -8px;
 }
 
 .PageBlurbs{
-    width: auto;
+    max-width: 1440px;
     height: 1000px;
     margin: -8px;
 }
 
 .Footer{
-    width: auto;
+    max-width: 1440px;
     height: 500px;
     background-color: lightgray;
     margin: -8px;
