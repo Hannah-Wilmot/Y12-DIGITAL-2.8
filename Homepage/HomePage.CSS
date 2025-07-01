@@ -37,6 +37,14 @@
     align-content: center;
 }
 
+#Nutritionimage{
+   max-width: 650px;
+   max-height: 400px; 
+   margin: 35px;
+   position: relative;
+   top:-370px;
+}
+
 .Footer{
     width: 1440px;
     height: 500px;
