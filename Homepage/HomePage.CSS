@@ -24,7 +24,7 @@
 
 .WelcomeMessage{
     width: 1440px;
-    height: 350px;
+    height: 400px;
     background-color: lightgray;
     margin: auto;
     align-content: center;
@@ -40,9 +40,19 @@
 #Nutritionimage{
    max-width: 650px;
    max-height: 400px; 
-   margin: 35px;
+   margin: 30px;
    position: relative;
    top:-370px;
+   float: left;
+}
+
+#Fitnessimage{
+  max-width: 650px;
+   max-height: 400px; 
+   margin: 30px;
+   position: relative;
+   top:-370px;  
+   float: right;
 }
 
 .Footer{
