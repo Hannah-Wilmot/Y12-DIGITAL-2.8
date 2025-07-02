@@ -64,6 +64,15 @@
    float: left;
 }
 
+#Sleepimage{
+  max-width: 650px;
+   max-height: 400px; 
+   margin: 30px;
+   position: relative;
+   top:-70px;  
+   float: right;
+}
+
 .Footer{
     width: 1440px;
     height: 500px;
