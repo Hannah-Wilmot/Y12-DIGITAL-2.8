@@ -15,6 +15,30 @@
    align-content: center;
 }
 
+#Navtext1{
+   float: right;
+   position: relative;
+   top: 30px;
+}
+
+#Navtext2{
+   float: right;
+   position: relative;
+   top: 30px;
+}
+
+#Navtext3{
+   float: right;
+   position: relative;
+   top: 30px;
+}
+
+#Navtext4{
+   float: right;
+   position: relative;
+   top: 30px;
+}
+
 .Heroimage {
     max-width: 1440px;
     max-height: 600px;
