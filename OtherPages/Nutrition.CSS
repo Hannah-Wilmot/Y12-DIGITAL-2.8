@@ -56,7 +56,9 @@
     max-width: 1440px;
     max-height: 600px;
     margin: auto;
-    align-content: center;   
+    align-content: center;
+    position: relative;
+    left:-10px ;   
 }
 
 .WelcomeMessage{
@@ -64,6 +66,8 @@
     height: 400px;
     background-color: lightgray;
     margin: auto;
+    position: relative;
+    left:-10px ;
 }
 
 .Decorationimage1{
@@ -72,6 +76,8 @@
     margin: auto;
     margin-top: -10px;
     align-content: center;
+    position: relative;
+    left:-10px ;
     
 }
 
@@ -96,6 +102,8 @@
    background-color: grey;
    float: right;
    margin: 40px;
+   position: relative;
+   left:-10px ;
 
 }
 
@@ -112,6 +120,8 @@
     margin: auto;
     margin-top: 80px;
     align-content: center;
+    position: relative;
+    left:-10px ;
     
 }
 
@@ -127,6 +137,8 @@
     background-color: lightgray;
     margin: auto;
     align-content: center;
+    position: relative;
+    left:-10px ;
 }
 
 .logo2{
