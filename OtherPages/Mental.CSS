@@ -1,3 +1,13 @@
+a{
+   text-decoration: none;
+   color: black;
+}
+
+#Navtext1, #Navtext2, #Navtext3, #Navtext4 {
+   text-decoration: none;
+   color: white;
+}
+
 .Heroimgcontanier{
    position: relative;
    max-width: 1440px;
@@ -147,4 +157,28 @@
    margin-left: -100px;
    margin-top: 10px;
    align-content: center;
+}
+
+.Nurtitoncolum{
+   position: absolute;
+   top: 130px;
+   right: 700px;
+}
+
+.Fitnesscolum{
+   position: absolute;
+   top: 130px;
+   right: 500px;
+}
+
+.Mentalcolum{
+   position: absolute;
+   top: 130px;
+   right: 300px;
+}
+
+.Sleepcolum{
+   position: absolute;;
+   top: 130px;
+   right: 100px;
 }
