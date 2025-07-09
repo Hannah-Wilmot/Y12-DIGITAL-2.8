@@ -3,6 +3,9 @@
     max-width: 1440px;
     max-height: 600px;
     margin: auto;
+    margin-top: 0%;
+    padding-top: 0%;
+    margin-bottom: 100px;
     align-content: center; 
 }
 
@@ -56,9 +59,10 @@
     max-width: 1440px;
     max-height: 600px;
     margin: auto;
+    margin-top: -60px;
+    margin-left: -10px;
     align-content: center;
-    position: relative;
-    left:-10px ;   
+       
 }
 
 .WelcomeMessage{
@@ -68,6 +72,7 @@
     margin: auto;
     position: relative;
     left:-10px ;
+    align-content: center;
 }
 
 .Decorationimage1{
