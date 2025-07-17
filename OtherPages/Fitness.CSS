@@ -11,7 +11,7 @@ a{
 .Heroimgcontanier{
     position: relative;
     max-width: 1440px;
-    max-height: 600px;
+    max-height: 700px;
     margin: auto;
     margin-top: 0%;
     padding-top: 0%;
@@ -83,6 +83,7 @@ a{
     position: relative;
     left:-10px ;
     align-content: center;
+    top: 15px;
 }
 
 .Decorationimage1{
