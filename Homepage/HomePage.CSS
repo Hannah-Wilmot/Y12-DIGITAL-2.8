@@ -111,14 +111,22 @@ a{
 
 }
 
-
 #Fitnessimage{
   max-width: 650px;
    max-height: 400px; 
    margin: 30px;
    position: relative;
-   top:-370px;  
+   top:-710px;  
    float: right;
+}
+
+.Fitnesstext{
+   width: 600px;
+   text-align: left;
+   position: relative;
+   left: 770px;
+   top: -255px;
+
 }
 
 #Mentalimage{
