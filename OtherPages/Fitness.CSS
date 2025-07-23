@@ -160,6 +160,10 @@ text-align: left;
     background-color: lightgray;
 }
 
+.Keytakeawaystext{
+   padding: 150px;
+}
+
 .Decorationimage2{
     max-width: 1440px;
     height: 300px;
@@ -167,7 +171,7 @@ text-align: left;
     margin-top: 80px;
     align-content: center;
     position: relative;
-    left:-10px ;
+    left:-10px;
     
 }
 
