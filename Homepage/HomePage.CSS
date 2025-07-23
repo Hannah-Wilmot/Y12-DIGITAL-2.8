@@ -66,6 +66,13 @@ a{
    right: 50px;
 }
 
+.HeroText{
+   top: 500px;
+   left:50px;
+   position: absolute;
+   color: white;
+}
+
 .Heroimage {
     max-width: 1440px;
     max-height: 600px;
@@ -85,6 +92,10 @@ a{
     left:-10px ;
     align-content: center;
     top: 15px;
+}
+
+.WelcomeMessagetext{
+    margin: 50px;
 }
 
 .PageBlurbs{
@@ -181,31 +192,37 @@ a{
 
 .logo2{
    margin-left: -100px;
-   margin-top: 10px;
+   margin-top: -100px;
    align-content: center;
 }
 
+
 .Nurtitoncolum{
    position: absolute;
-   top: 130px;
+   top: 70px;
    right: 700px;
 }
 
 .Fitnesscolum{
    position: absolute;
-   top: 130px;
+   top: 70px;
    right: 500px;
 }
 
 .Mentalcolum{
    position: absolute;
-   top: 130px;
+   top: 70px;
    right: 300px;
 }
 
 .Sleepcolum{
    position: absolute;;
-   top: 130px;
+   top: 70px;
    right: 100px;
+}
+
+.ThankyouMessage{
+   margin-top: -80px;
+   margin-left: 100px;
 }
 
