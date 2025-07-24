@@ -3,6 +3,11 @@ a{
    color: black;
 }
 
+#Ref{
+   text-decoration: underline;
+   color: darkgreen;
+}
+
 #Navtext1, #Navtext2, #Navtext3, #Navtext4 {
    text-decoration: none;
    color: white;
@@ -184,6 +189,12 @@ text-align: left;
     max-width: 1440px;
     height: 750px;
     margin: auto;
+}
+
+.ReferenceText{
+   width: 800px;
+   margin-left:200px;
+   margin-top: 200px;
 }
 
 .Footer{
