@@ -70,6 +70,13 @@ a{
    right: 50px;
 }
 
+.HeroText{
+   top: 500px;
+   left:50px;
+   position: absolute;
+   color: white;
+}
+
 .Heroimage {
     max-width: 1440px;
     max-height: 600px;
@@ -182,7 +189,7 @@ text-align: left;
 
 .References{
     max-width: 1440px;
-    height: 380px;
+    height: 520px;
     margin: auto;
 }
 
