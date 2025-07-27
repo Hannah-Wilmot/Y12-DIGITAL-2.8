@@ -121,7 +121,7 @@ a{
 
 .Addinfo1{
     width: 250px;
-    height: 320px;
+    height: 340px;
     background-color: grey;
     float: left;
     margin: 40px;
@@ -130,7 +130,7 @@ a{
 
 .Addinfo1a{
    padding: 30px;
-   margin-top: -5px;
+   margin-top: -20px;
 }
 
 .Addinfo2{
@@ -154,6 +154,14 @@ a{
    
 }
 
+table {
+   width: 800px;
+
+}
+
+th {
+   text-align: left;
+}
 
 .Keytakeaways{
     max-width: 1300px;
