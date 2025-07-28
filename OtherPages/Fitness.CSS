@@ -222,6 +222,7 @@ th {
 }
 
 .Fitnesscolum{
+   width:180px;
    position: absolute;
    top: 70px;
    right: 500px;
