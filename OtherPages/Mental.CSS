@@ -3,6 +3,11 @@ a{
    color: black;
 }
 
+#Ref{
+   text-decoration: underline;
+   color: darkgreen;
+}
+
 #Navtext1, #Navtext2, #Navtext3, #Navtext4 {
    text-decoration: none;
    color: white;
@@ -142,12 +147,32 @@ a{
    margin-top: -5px;
 }
 
+.TextContent{
+  width: 700px;
+  margin:auto;
+  margin-top: -1430px;
+   
+}
+
+table{
+  width: 800px;
+   
+}
+
+th{
+text-align: left;
+}
+
 .Keytakeaways{
     max-width: 1300px;
     height: 600px;
     margin: auto;
      margin-top: 30px;
     background-color: lightgray;
+}
+
+.Keytakeawaystext{
+   padding: 150px;
 }
 
 .Decorationimage2{
