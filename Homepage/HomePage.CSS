@@ -182,7 +182,7 @@ a{
 
 .Footer{
     width: 1440px;
-    height: 500px;
+    height: 650px;
     background-color: lightgray;
     margin: auto;
     align-content: center;
@@ -196,30 +196,34 @@ a{
    align-content: center;
 }
 
-
 .Nurtitoncolum{
+   width:180px;
    position: absolute;
    top: 70px;
-   right: 700px;
+   right: 650px;
 }
 
 .Fitnesscolum{
+   width:180px;
    position: absolute;
    top: 70px;
-   right: 500px;
+   right: 460px;
 }
 
 .Mentalcolum{
+   width:170px;
    position: absolute;
    top: 70px;
-   right: 300px;
+   right: 280px;
 }
 
 .Sleepcolum{
+   width:180px;
    position: absolute;;
    top: 70px;
-   right: 100px;
+   right: 70px;
 }
+
 
 .ThankyouMessage{
    margin-top: -80px;
