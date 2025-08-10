@@ -1,3 +1,27 @@
+h1 {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 55px;
+
+}
+
+h2, h3 {
+  font-family: "Comic Neue", cursive;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 40px;
+}
+
+p,td,th,li{
+   font-family: "Lexend";
+   font-weight: 300;
+   font-style: normal;
+   font-size: 20px;
+}
+
+
 a{
    text-decoration: none;
    color: black;
@@ -70,7 +94,7 @@ a{
 }
 
 .HeroText{
-   top: 500px;
+   top: 450px;
    left:50px;
    position: absolute;
    color: white;
@@ -166,12 +190,13 @@ th {
     max-width: 1300px;
     height: 600px;
     margin: auto;
-    margin-top: 30px;
     background-color: lightgray;
 }
 
 .Keytakeawaystext{
+   margin-top: 30;
    padding: 150px;
+   align-content: center;
 }
 
 .Decorationimage2{
@@ -187,19 +212,23 @@ th {
 
 .References{
     max-width: 1440px;
-    height: 750px;
+    height: 800px;
     margin: auto;
+    margin-bottom: 80px;
+
 }
 
 .ReferenceText{
    width: 800px;
    margin-left:200px;
-   margin-top: 200px;
+   margin-top: 150px;
+   display: block;
+   padding-bottom: 100px;
 }
 
 .Footer{
     width: 1440px;
-    height: 650px;
+    height: 950px;
     background-color: lightgray;
     margin: auto;
     align-content: center;
@@ -209,7 +238,7 @@ th {
 
 .logo2{
    margin-left: -100px;
-   margin-top: -100px;
+   margin-top:80px;
    align-content: center;
 }
 
@@ -242,6 +271,7 @@ th {
 }
 
 .ThankyouMessage{
-   margin-top: 70px;
+   margin-top: 200px;
    margin-left: 100px;
+   width: 1200px;
 }
