@@ -28,7 +28,6 @@ p,td,th,li{
    font-size: 20px;
 }
 
-
 a{
    text-decoration: none;
    color: black;
@@ -195,7 +194,7 @@ th {
 
 .Keytakeaways{
     max-width: 1300px;
-    height: 500px;
+    height: 550px;
     margin: auto;
     margin-top: 100px;
     background-color: lightgray;
