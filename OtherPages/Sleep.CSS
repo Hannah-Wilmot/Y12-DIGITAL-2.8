@@ -1,3 +1,33 @@
+h1 {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 55px;
+
+}
+
+h2, h3 {
+  font-family: "Comic Neue", cursive;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 40px;
+}
+
+h4{
+   font-weight: 370;
+  font-style: normal;
+  font-family: "Lexend";
+  font-size: 25px; 
+}
+
+p,td,th,li{
+   font-family: "Lexend";
+   font-weight: 300;
+   font-style: normal;
+   font-size: 20px;
+}
+
 a{
    text-decoration: none;
    color: black;
@@ -71,7 +101,7 @@ a{
 }
 
 .HeroText{
-   top: 500px;
+   top: 450px;
    left:50px;
    position: absolute;
    color: white;
@@ -120,8 +150,8 @@ a{
 }
 
 .Addinfo1{
-    width: 250px;
-    height: 320px;
+    width: 280px;
+    height: 540px;
     background-color: grey;
     float: left;
     margin: 40px;
@@ -130,12 +160,12 @@ a{
 
 .Addinfo1a{
    padding: 30px;
-   margin-top: -5px;
+   margin-top: -20px;
 }
 
 .Addinfo2{
-   width: 250px;
-   height: 320px;
+   width: 280px;
+   height: 540px;
    background-color: grey;
    float: right;
    margin: 40px;
@@ -165,14 +195,19 @@ text-align: left;
 
 .Keytakeaways{
     max-width: 1300px;
-    height: 600px;
+    height: 550px;
     margin: auto;
-    margin-top: 30px;
+    margin-top: 100px;
     background-color: lightgray;
+    position: relative;
 }
 
 .Keytakeawaystext{
-   padding: 150px;
+   align-content: center;
+   margin: auto;
+   position: absolute;
+   top: 50px;
+   left: 200px;
 }
 
 .Decorationimage2{
@@ -188,19 +223,23 @@ text-align: left;
 
 .References{
     max-width: 1440px;
-    height: 520px;
+    height: 800px;
     margin: auto;
+    margin-bottom: 80px;
+
 }
 
 .ReferenceText{
    width: 800px;
    margin-left:200px;
-   margin-top: 200px;
+   margin-top: 150px;
+   display: block;
+   padding-bottom: 100px;
 }
 
 .Footer{
     width: 1440px;
-    height: 650px;
+    height: 950px;
     background-color: lightgray;
     margin: auto;
     align-content: center;
@@ -210,7 +249,7 @@ text-align: left;
 
 .logo2{
    margin-left: -100px;
-   margin-top: -100px;
+   margin-top:80px;
    align-content: center;
 }
 
@@ -241,7 +280,9 @@ text-align: left;
    top: 70px;
    right: 70px;
 }
+
 .ThankyouMessage{
-   margin-top: 70px;
+   margin-top: 200px;
    margin-left: 100px;
+   width: 1200px;
 }
