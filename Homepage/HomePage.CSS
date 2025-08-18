@@ -1,4 +1,8 @@
 
+body{
+   background-color: rgba(255, 250, 242, 1);
+}
+
 h1 {
   font-family: "Merriweather", serif;
   font-optical-sizing: auto;
@@ -24,7 +28,10 @@ p{
 
 a{
    text-decoration: none;
-   color: black;
+}
+
+.heading{
+   color:rgba(16, 99, 134, 1); 
 }
 
 #Navtext1, #Navtext2, #Navtext3, #Navtext4 {
@@ -109,7 +116,7 @@ a{
 .WelcomeMessage{
     width: 1440px;
     height: 350px;
-    background-color: lightgray;
+    background-color:rgba(242, 213, 130, 1);
     margin: auto;
     margin-bottom: 100px;
     position: relative;
@@ -120,6 +127,7 @@ a{
 
 .WelcomeMessagetext{
     margin: 70px;
+    color:rgba(16, 99, 134, 1);
 }
 
 .PageBlurbs{
@@ -128,6 +136,10 @@ a{
     margin: auto;
     align-content: center;
     margin-bottom: 30px;
+}
+
+.heading{
+color:rgba(16, 99, 134, 1);  
 }
 
 #Nutritionimage{
@@ -146,6 +158,7 @@ a{
    left: 70px;
    top: -80px;
    margin-bottom: -100px;
+       color:rgba(16, 99, 134, 1);
 
 }
 
@@ -165,6 +178,7 @@ a{
    left: 800px;
    top: -310px;
    margin-bottom: -100px;
+       color:rgba(16, 99, 134, 1);
 
 }
 
@@ -184,6 +198,7 @@ a{
    position: relative;
    left: 80px;
    top: -120px;
+       color:rgba(16, 99, 134, 1);
 }
 
 #Sleepimage{
@@ -202,13 +217,14 @@ a{
    left: 800px;
    top: -460px;
    margin-bottom: -200px;
+   color:rgba(16, 99, 134, 1);
 
 }
 
 .Footer{
     width: 1440px;
     height: 950px;
-    background-color: lightgray;
+    background-color:rgba(242, 213, 130, 1);
     margin: auto;
     align-content: center;
     position: relative;
@@ -247,6 +263,7 @@ a{
    position: absolute;;
    top: 70px;
    right: 70px;
+   
 }
 
 
@@ -254,5 +271,6 @@ a{
    margin-top: 200px;
    margin-left: 100px;
    width: 1200px;
+   color:rgba(16, 99, 134, 1);
 }
 
