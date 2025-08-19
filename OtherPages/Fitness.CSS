@@ -131,7 +131,7 @@ a{
 .WelcomeMessage{
     width: 1440px;
     height: 350px;
-    background-color:rgba(242, 213, 130, 1);;
+    background-color:rgba(242, 213, 130, 1);
     margin: auto;
     margin-bottom: 20px;
     position: relative;
@@ -168,7 +168,7 @@ color:rgba(16, 99, 134, 1);
 .Addinfo1{
     width: 280px;
     height: 540px;
-    background-color:rgba(242, 213, 130, 1);;
+    background-color:rgba(242, 213, 130, 1);
     float: left;
     margin: 40px;
 
@@ -197,8 +197,7 @@ color:rgba(16, 99, 134, 1);
   width: 700px;
   margin:auto;
   margin-top: -1430px;
-  color:rgba(16, 99, 134, 1);
-   
+  color:rgba(16, 99, 134, 1);  
 }
 
 table {
@@ -215,7 +214,7 @@ th {
     height: 550px;
     margin: auto;
     margin-top: 100px;
-    background-color: rgba(242, 213, 130, 1);;
+    background-color: rgba(242, 213, 130, 1);
     position: relative;
 }
 
@@ -260,7 +259,7 @@ th {
 .Footer{
     width: 1440px;
     height: 950px;
-    background-color:rgba(242, 213, 130, 1);;
+    background-color:rgba(242, 213, 130, 1);
     margin: auto;
     align-content: center;
     position: relative;

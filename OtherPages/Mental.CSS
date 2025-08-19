@@ -7,6 +7,14 @@ h1 {
 
 }
 
+.Mainheading{
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 75px;
+}
+
 h2, h3 {
   font-family: "Comic Neue", cursive;
   font-weight: 600;
@@ -120,7 +128,7 @@ a{
 .WelcomeMessage{
     width: 1440px;
     height: 350px;
-    background-color: lightgray;
+    background-color:rgba(242, 213, 130, 1);
     margin: auto;
     margin-bottom: 20px;
     position: relative;
@@ -131,6 +139,7 @@ a{
 
 .WelcomeMessagetext{
     margin: 50px;
+    color:rgba(16, 99, 134, 1);
 }
 
 .Decorationimage1{
@@ -147,12 +156,16 @@ a{
     max-width: 1440px;
     height: 1500px;
     margin: auto;
+   }
+
+.heading{
+color:rgba(16, 99, 134, 1);  
 }
 
 .Addinfo1{
     width: 280px;
     height: 540px;
-    background-color: grey;
+    background-color:rgba(242, 213, 130, 1);
     float: left;
     margin: 40px;
 
@@ -166,7 +179,7 @@ a{
 .Addinfo2{
    width: 280px;
    height: 540px;
-   background-color: grey;
+   background-color:rgba(242, 213, 130, 1);
    float: right;
    margin: 40px;
 
@@ -181,7 +194,7 @@ a{
   width: 700px;
   margin:auto;
   margin-top: -1430px;
-   
+color:rgba(16, 99, 134, 1);    
 }
 
 table{
@@ -198,7 +211,7 @@ text-align: left;
     height: 500px;
     margin: auto;
     margin-top: 100px;
-    background-color: lightgray;
+    background-color:  rgba(242, 213, 130, 1);
     position: relative;
 }
 
@@ -209,6 +222,7 @@ text-align: left;
    position: absolute;
    top: 50px;
    left: 200px;
+   color:rgba(16, 99, 134, 1);
 }
 
 .Decorationimage2{
@@ -238,12 +252,13 @@ text-align: left;
    margin-top: 150px;
    display: block;
    padding-bottom: 100px;
+   color:rgba(16, 99, 134, 1);
 }
 
 .Footer{
     width: 1440px;
     height: 950px;
-    background-color: lightgray;
+    background-color:rgba(242, 213, 130, 1);
     margin: auto;
     align-content: center;
     position: relative;
@@ -288,4 +303,5 @@ text-align: left;
    margin-top: 200px;
    margin-left: 100px;
    width: 1200px;
+   color:rgba(16, 99, 134, 1);
 }
