@@ -25,14 +25,14 @@ h2, h3 {
   font-size: 40px;
 }
 
-h4{
-   font-weight: 370;
+th{
+   font-weight: 410;
   font-style: normal;
   font-family: "Lexend";
   font-size: 25px; 
 }
 
-p,td,th,li{
+p,td,li{
    font-family: "Lexend";
    font-weight: 300;
    font-style: normal;
